@@ -8,5 +8,5 @@ source venv/bin/activate
 pip install selenium webdriver-manager requests beautifulsoup4 pandas
 
 
-python3 dscrape.py
+python3 main.py
 ```
